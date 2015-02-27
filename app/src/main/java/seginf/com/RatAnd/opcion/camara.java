@@ -1,4 +1,4 @@
-package RatAnd.opcion;
+package seginf.com.RatAnd.opcion;
 
 
 import android.app.Fragment;

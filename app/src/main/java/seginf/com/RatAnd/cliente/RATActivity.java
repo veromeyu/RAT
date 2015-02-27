@@ -1,4 +1,4 @@
-package RatAnd.cliente;
+package seginf.com.RatAnd.cliente;
 
 import android.app.Activity;
 import android.os.Bundle;
