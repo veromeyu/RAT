@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RAT</string>
+<<<<<<< HEAD
+=======
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> origin/master
 </resources>
